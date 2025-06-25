@@ -11,4 +11,4 @@ In order to use this tool, do the following:
 5. Remove git: ```rm -rf .git```
 6. Initialize git: ```git init```
 7. Install dependencies: ```npm install```
-8. echo ```"### Express Application" > README.md```
+8. ```echo "### Express Application" > README.md```
